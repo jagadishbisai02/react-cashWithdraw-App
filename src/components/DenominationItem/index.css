@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.values-list-item {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.btn-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+.value-btn {
+  background-color: #382f5a;
+  padding: 8px;
+  padding-left: 65px;
+  padding-right: 65px;
+  border: 2px solid #c4c4c4;
+  color: #d4d2db;
+  font-size: 25px;
+  border-radius: 8px;
+}
